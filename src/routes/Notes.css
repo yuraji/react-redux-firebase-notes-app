@@ -1,0 +1,4 @@
+.NotesContainer {
+	display: flex;
+	flex-wrap: wrap;
+}
